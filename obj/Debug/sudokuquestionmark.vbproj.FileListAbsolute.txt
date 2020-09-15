@@ -1,0 +1,12 @@
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\bin\Debug\sudokuquestionmark.exe.config
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\bin\Debug\sudokuquestionmark.exe
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\bin\Debug\sudokuquestionmark.pdb
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\bin\Debug\sudokuquestionmark.xml
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.vbprojAssemblyReference.cache
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.frmMain.resources
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.Resources.resources
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.vbproj.GenerateResource.cache
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.vbproj.CoreCompileInputs.cache
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.exe
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.xml
+C:\Users\Nii-san\Desktop\sudokuquestionmark\sudokuquestionmark\obj\Debug\sudokuquestionmark.pdb
